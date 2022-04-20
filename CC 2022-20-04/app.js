@@ -14,3 +14,4 @@ function printArray(array){
 }
 
 console.log(["h","o","l","a"])
+
